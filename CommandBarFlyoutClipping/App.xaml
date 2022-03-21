@@ -1,0 +1,14 @@
+﻿<Application
+    x:Class="CommandBarFlyoutClipping.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CommandBarFlyoutClipping"
+    xmlns:muxc="using:Microsoft.UI.Xaml.Controls"
+    xmlns:muxcp="using:Microsoft.UI.Xaml.Controls.Primitives">
+    <Application.Resources>
+        <muxc:XamlControlsResources ControlsResourcesVersion="Version2">
+            <muxc:XamlControlsResources.MergedDictionaries>
+            </muxc:XamlControlsResources.MergedDictionaries>
+        </muxc:XamlControlsResources>
+    </Application.Resources>
+</Application>
